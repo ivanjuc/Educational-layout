@@ -1,0 +1,169 @@
+
+body {
+    background: #fff;
+    font-family: 'Roboto', sans-serif;
+    color: #6c6c6c;
+}
+.container-fluid{
+    padding: 20px 10px;
+}
+.title{
+    letter-spacing: 10px;
+    font-weight: 900;
+    background: #d4d4d4;
+    color: #fff;
+    padding: 10px 0;
+    transition: 1s;
+}
+.title:hover{
+    border-radius: 20px;
+    background: #b4b4b4;
+    color: #d4d4d4;
+}
+.hav{
+    padding:0 10px;
+    margin-bottom: 20px;
+}
+.icon{
+    max-width: 50px;
+    margin-left: 15px;
+}
+.photo{
+    padding-top: 10px;
+}
+.photo img {
+    padding: 10px;
+    width: 100%;
+    border-radius: 30px
+}
+h3, h2, p{
+    padding: 10px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+.navigation {
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.line{
+    height: 2px;
+    background: #c1aea1;
+    margin-bottom: 100px;
+}
+.line-1{
+    height: 2px;
+    background: #c1aea1;
+    margin: 20px 0;
+}
+.Vivamus{
+    margin-bottom: 100px;
+    letter-spacing: 3px;
+    font-weight: 900;
+}
+.cook{
+    width: 100%;
+    margin-bottom: 50px;
+}
+.blok{
+    margin-bottom: 50px;
+}
+.footer-title{
+    margin-bottom: 50px;
+}
+.footer-blok{
+    margin-bottom: 100px;
+}
+.tag span{
+    background: #8e8e8e;
+    color: #fff;
+    padding: 0 10px;
+    margin: 3px;
+    transition: .5s;
+}
+.tag span:hover{
+    background: #000;
+    transform: scale(1.1);
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
